@@ -1,8 +1,8 @@
 # Raspberry Pi
 
-## Setup
+### Setup
 
-### [OS](setup_os.md)
+* [OS](setup_os.md)
 
-### [VIC](setup_vic.md)
+* [C=64 development environment](setup_c%3D64_development_environment.md)
 
