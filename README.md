@@ -2,7 +2,7 @@
 
 ## Setup
 
-### [OS](OS.md)
+### [OS](setup_os.md)
 
-### [VIC](VIC.md)
+### [VIC](setup_vic.md)
 

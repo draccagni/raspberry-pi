@@ -1,4 +1,6 @@
-### OS
+# Setup 
+
+## OS
 
 At the moment the best OS version I have found is https://ubuntu-mate.org/raspberry-pi/
 

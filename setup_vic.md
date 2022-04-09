@@ -1,15 +1,11 @@
-# VIC
+# Setup VIC
 
-## Setup
+First of all, download last source tarball from https://vice-emu.sourceforge.io/ (ex: vice-3.6.1.tar.gz) or `wget https://sourceforge.net/projects/vice-emu/files/releases/vice-3.6.1.tar.gz/download`
+
+Then execute the following commands from terminal.
 
 ```
 cd /opt
-
-download last source tarball from https://vice-emu.sourceforge.io/ (ex: vice-3.6.1.tar.gz)
-
-or
-
-wget https://sourceforge.net/projects/vice-emu/files/releases/vice-3.6.1.tar.gz/download
 
 sudo tar xzvf vice-3.6.1.tar.gz
 sudo ln -sf vice-3.6.1 vice
@@ -28,12 +24,12 @@ sudo make install
 cp -R data/ ~/.vice
 ```
 
-All executables are under src directory
+All executables will be available under `src` directory.
 
 
 *References*
 
-https://programitalia.wordpress.com/2018/08/04/pi-vice-emu/
-https://forums.raspberrypi.com/viewtopic.php?t=264621
+* https://programitalia.wordpress.com/2018/08/04/pi-vice-emu/
+* https://forums.raspberrypi.com/viewtopic.php?t=264621
 
 
