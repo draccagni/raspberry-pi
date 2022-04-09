@@ -15,7 +15,7 @@ cd /opt
 
 sudo tar xzvf vice-3.6.1.tar.gz
 sudo ln -sf vice-3.6.1 vice
-sudo chown -R *<username>*:*<username>* vice/
+sudo chown -R <username>:<username> vice/
 
 cd vice
 
