@@ -1,8 +1,8 @@
-# Setup 
+# Setup Raspberry Pi 4 OS
 
-## OS
+### Alternative OS
 
-At the moment the best OS version I have found is https://ubuntu-mate.org/raspberry-pi/
+At the moment the best alternative OS I have found is https://ubuntu-mate.org/raspberry-pi/
 
 ### Visual Studio Code
 

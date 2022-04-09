@@ -1,12 +1,12 @@
-# Setup C=64 development
+# Setup C=64 development environment
 
 ### VIC
 
 First of all, download last source tarball from https://vice-emu.sourceforge.io/ (at the moment is [vice-3.6.1.tar.gz](https://sourceforge.net/projects/vice-emu/files/releases/vice-3.6.1.tar.gz/download)).
 
-> **Tips** you can download it directly executing from terminal `wget https://sourceforge.net/projects/vice-emu/files/releases/vice-3.6.1.tar.gz/download` command.
+> **Tips** download it directly executing the following command in terminal `wget https://sourceforge.net/projects/vice-emu/files/releases/vice-3.6.1.tar.gz/download`
 
-Then execute the following commands from terminal.
+Then execute the following commands in terminal.
 
 ```
 sudo apt-get update && sudo apt-get --yes upgrade
