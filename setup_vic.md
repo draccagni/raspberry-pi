@@ -1,6 +1,10 @@
 # Setup VIC
 
-First of all, download last source tarball from https://vice-emu.sourceforge.io/ (ex: vice-3.6.1.tar.gz) or `wget https://sourceforge.net/projects/vice-emu/files/releases/vice-3.6.1.tar.gz/download`
+First of all, download last source tarball from https://vice-emu.sourceforge.io/ (the last at the moment is vice-3.6.1.tar.gz).
+
+---
+Tips: you can download it directly from a terminal with `wget https://sourceforge.net/projects/vice-emu/files/releases/vice-3.6.1.tar.gz/download`
+---
 
 Then execute the following commands from terminal.
 
