@@ -2,6 +2,7 @@
 
 ## Setup
 
-### Visual Studio Code
+### [this OS](OS.md)
 
-https://code.visualstudio.com/Download
+### [this VIC](VIC.md)
+
